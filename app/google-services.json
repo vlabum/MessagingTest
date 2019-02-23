@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322758054531",
+    "firebase_url": "https://messagingtest-22343.firebaseio.com",
+    "project_id": "messagingtest-22343",
+    "storage_bucket": "messagingtest-22343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322758054531:android:10d9a17719165cad",
+        "android_client_info": {
+          "package_name": "ru.vlabum.android.apps.messagingtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322758054531-d5rn0d61q869t3dvlfkfei9d7afaon17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.vlabum.android.apps.messagingtest",
+            "certificate_hash": "3d9661f72bdb4f1cb79f680a28d37a4c72135c52"
+          }
+        },
+        {
+          "client_id": "322758054531-f7eph4f6glfk7935iap5ns96lq8h60f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUw_CpRByh_p0jSizLPlix6Ka3tvBSjBk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322758054531-f7eph4f6glfk7935iap5ns96lq8h60f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

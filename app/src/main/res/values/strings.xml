@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MessagingTest</string>
+    <string name="a_main_btn_send">Send</string>
+</resources>
