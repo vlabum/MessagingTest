@@ -1,6 +1,5 @@
 package ru.vlabum.android.apps.messagingtest;
 
-
 import android.Manifest;
 import android.content.Intent;
 import android.content.IntentFilter;
